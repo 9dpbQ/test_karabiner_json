@@ -1,1 +1,1 @@
-Karabiner-Elementsで自作キーボードの機能を再現するComplexModificationsで使える書き換えのサンプルファイルです。テスト
+Karabiner-ElementsのComplexModifications用、自作キーボードの機能を再現する書き換えサンプルファイル。組み合わせると大体は再現できると思います。
